@@ -1,0 +1,9 @@
+{
+  "strategy": "OIL_2_2_OPT_MORNING_AFTERNOON_ADX",
+  "action": "ENTRY_LONG",
+  "symbol": "WTOIL-PERP",
+  "signal_price": 75.50,
+  "stop_price": 75.10,
+  "adx_trigger": 21.0,
+  "bar_time": 1760012345000
+}

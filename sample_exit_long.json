@@ -1,0 +1,7 @@
+{
+  "strategy": "OIL_2_2_OPT_MORNING_AFTERNOON_ADX",
+  "action": "EXIT_LONG",
+  "reason": "BREAK_EVEN",
+  "symbol": "WTOIL-PERP",
+  "signal_price": 75.70
+}
